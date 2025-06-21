@@ -4,9 +4,15 @@ Actvidad 3
 Parrafo 1 user 1
 Parrafo 2 user 1
 Parrafo 3 user 1
+=======
+<<<<<<< HEAD
+Parrafo 1 user 1
+Parrafo 2 user 1
+Parrafo 3 user 1
 
 Parrafo 1 user 3
 =======
 Parrafo 1 user 2
 Parrafo 2 user 2
 >>>>>>> a3-user2
+>>>>>>> a3-develop
