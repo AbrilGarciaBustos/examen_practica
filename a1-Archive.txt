@@ -1,4 +1,8 @@
 Parrafo 1 main 
 Parrafo 2 main 
 
+<<<<<<< HEAD
 Parrafo 1 user1
+=======
+Parrafo 1 hotfix
+>>>>>>> a1-develop
